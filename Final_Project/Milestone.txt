@@ -1,0 +1,23 @@
+11.18.13
+The web site must have a sign in / login page.  You should also support guests. 
+Finished writing but not tested yet.
+
+The web site must be uniformly styled, not just plain HTML.
+Finished.
+
+The web site must be responsive. It must be usable on mobile devices.
+Not start yet.
+
+The web site must have a navigation section and at least three ¡®pages¡¯.
+It is a travel agency's website, that I joined with my friends in the Big island.
+Hopefully I can successfully make a new website and use it to substitute the old one. 
+I Plan to have 17-18 pages, but i may only do as much as possible during class time and finished it during summer.
+
+The web site must have an about page that describes the technology you use in the web site.
+Working on it, not finished yet.
+
+The web site must have client side interaction.
+Planning on it, not started yet.
+
+The web site must store some information persistently.
+Save user name and their viewed travel in cookie and send back to sever to form a conclusion on which travel plan is more attractive.
