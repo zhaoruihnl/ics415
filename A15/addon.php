@@ -32,7 +32,7 @@ mysqli_close($con);
 <br />
 You are being automatically redirected to the add comments page.<br />
     If your browser does not redirect you in few seconds
-    <a href="zhaorui.A15.php">click here</a>. 
+    <a href="index.php">click here</a>. 
 
 </body>
 </html>
